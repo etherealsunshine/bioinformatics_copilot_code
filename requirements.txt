@@ -1,0 +1,12 @@
+paramiko>=3.4.0
+requests>=2.31.0
+pysftp>=0.2.9
+PyMuPDF>=1.23.8  # This is the package for 'fitz'
+pillow>=10.2.0  # This is the package for PIL
+reportlab>=4.0.8
+PyPDF2>=3.0.0
+scanpy>=1.9.8
+pandas>=2.2.0
+matplotlib>=3.8.0
+PyQt5>=5.15.10
+tk>=0.1.0  # for tkinterin
